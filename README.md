@@ -28,9 +28,6 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 [website](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii) 
 
 
-#DC ROMA Desktop (website)
-(insert link)
-
 
 #Fedora 42 RISC-V Image Download
 (insert link)
