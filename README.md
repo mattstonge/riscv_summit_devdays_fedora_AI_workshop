@@ -12,7 +12,7 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 --------------------------------------------------------------------
 
 #Lab Exercises
-[Workshop Exercises] (https://./index.html)
+[Workshop Exercises](https://./index.html)
 
 
 #Supporting Materials
