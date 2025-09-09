@@ -21,7 +21,7 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 
 
 #Supporting Materials
-(insert link)
+[references](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
 
 #DC ROMA II RISC-V Laptop
 
