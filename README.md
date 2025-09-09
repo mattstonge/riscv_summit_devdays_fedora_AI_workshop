@@ -15,9 +15,9 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 
 [LAB: Getting Started](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/riscv-workshop.md) 
 
-[LAB: Optimizing Fedora]()
+[LAB: Optimizing Fedora](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/riscv-workshop2.md)
 
-[LAB: Intro to AI]()
+[LAB: Intro to AI](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/riscv-workshop3.md)
 
 
 #Supporting Materials
