@@ -12,7 +12,9 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 --------------------------------------------------------------------
 
 #Lab Exercises
-[Workshop Exercises](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/index.html) 
+[LAB: Getting Started]() 
+[LAB: Optimizing Fedora]()
+[LAB: Intro to AI]()
 
 
 #Supporting Materials
