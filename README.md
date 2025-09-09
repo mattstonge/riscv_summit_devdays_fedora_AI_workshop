@@ -23,8 +23,9 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 #Supporting Materials
 (insert link)
 
-#DC ROMA II RISC-V Laptop (website)
-(insert link)
+#DC ROMA II RISC-V Laptop
+
+[website](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/)
 
 #DC ROMA Desktop (website)
 (insert link)
