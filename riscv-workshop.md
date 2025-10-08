@@ -31,14 +31,15 @@ In this demo, Matt will walk everyone through the steps required to install the 
 Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your laptop (or desktop).
 
 
-###Steps:
+
+##Steps:
 
 
 
-####1. Ensure power OFF
+###1. Ensure power OFF
 
 
-####2. Unplug power supply
+###2. Unplug power supply
 
 
 Remove all modules from both sides
