@@ -56,29 +56,42 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 > Please Note: You must use extreme caution during this step as it is easy to break the ribbon cable from the keyboard that is attached to the mainboard.
 > Use the smudger to gently pry up the keyboard which is also magnetically attached. Do not jsut rip it up and off but only raise it a few inches. Just high enough to gently disconnect it from the mainboard. Once you have disconnected the keyboard from the mainboard set it aside.
 
-### 7. DIsconnect battery with smudger
+### 7. Disconnect battery with smudger
+> Using the smudger, gently pry the battery connector off.
 
 ### 8. Use smudger to gently lift the metal bracket holding the microSD card
+> Please Note: The card bracket is very fragile. It is on a hinge and should not be totally removed. 
+> USE EXTREME CAUTION
+> Gentry use the smudger to unlock the card bracket (it will swing upwards but not come off).
 
 ### 9. Remove microSD card (if present)
+> If there was a microSD card in the slot, please set it aside.
 
 ### 10. Install new Fedora 42 microSD card
+> Place the Fedora 42 microSD card in the slot.
 
 ### 11. Gently close/secure bracket
+> Gently close the bracket and secure the microSD card.
 
 ### 12. Reconnect battery
+> Gently reattach the battery connector.
 
 ### 13. Replace keyboard
+> Carefully, realign the keyboard in its place.
 
 ### 14. Close & flip laptop over
+> Carefully close the laptop lid and then flip the laptop over laying it flat on the table (screws visible)
 
 ### 15. Gently tighten screws
+> Gently secure the screws - do not over-tighten them as it can destroy the threading.
 
 ### 16. Replace the modules back to their slots
-
+> Replace all modules back into the slots they were originally in.
 ### 17. Plug-in power supply
+> Plug the USB-C power cord back into a USB-C slot.
 
 ### 18. TURN ON THE POWER
+> Open the laptop up and gently press the power button.
 > This is the end of this exercise - do not log into the machine yet.
 
 
