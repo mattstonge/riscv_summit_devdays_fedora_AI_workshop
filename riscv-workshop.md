@@ -32,17 +32,17 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 > Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
 
 
-##Steps:
+## Steps:
 
 
 
-###1. Ensure power OFF
+### 1. Ensure power OFF
 
 
-###2. Unplug power supply
+### 2. Unplug power supply
 
 
-Remove all modules from both sides
+### 3. Remove all modules from both sides
 
 Unscrew bottom 
 
