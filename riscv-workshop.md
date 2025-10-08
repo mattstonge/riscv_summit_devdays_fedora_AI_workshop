@@ -37,20 +37,26 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 
 ### 1. Ensure power OFF
-
+> Power should already be off but if on shutdown the machine either via command line or the Graphical Desktop.
 
 ### 2. Unplug power supply
-
+> Disconnect the USB-C powersupply cable
 
 ### 3. Remove all modules from both sides
+> While pressing the button between the slots, gently slide the modules outward.
 
-Unscrew bottom 
+### 4. Unscrew bottom section from the keyboard
+> On the bottom of the laptop there are 5 screws. unscrew them with the torx bit.
+> Please Note: The screws will NOT come all the way out - this is by design so they do not get lost. 
 
-Flip laptop over (open faced)
+### 5. Flip laptop over (open faced)
+> Gently flip the laptop over and carefullt open it's screen, laying it flat and open on the table.
 
-Use smudger to gently pry up keyboard
+### 6. Use smudger to gently pry up keyboard
+> Please Note: You must use extreme caution during this step as it is easy to break the ribbon cable from the keyboard that is attached to the mainboard.
+> Use the smudger to gently pry up the keyboard which is also magnetically attached. Do not jsut rip it up and off but only raise it a few inches. Just high enough to gently disconnect it from the mainboard. Once you have disconnected the keyboard from the mainboard set it aside.
 
-DIsconnect battery with smudger
+### 7. DIsconnect battery with smudger
 
 Use smudger to gently lift the metal bracket holding the microSD card
 
