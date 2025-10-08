@@ -29,7 +29,7 @@ In this demo, Matt will walk everyone through the steps required to install the 
 
 ## EXERCISE One:
 Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your laptop (or desktop).
-
+> Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
 
 
 ##Steps:
