@@ -9,8 +9,7 @@ Yuning Liang
 Session Info:
 https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat 
 
-Slides:
-(Insert Link)
+[Slides:](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/Getting_Started_w_Fedora_RISCV_AI.pptx)
 
 --------------------------------------------------------------------
 
