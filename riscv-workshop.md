@@ -58,27 +58,28 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 7. DIsconnect battery with smudger
 
-Use smudger to gently lift the metal bracket holding the microSD card
+### 8. Use smudger to gently lift the metal bracket holding the microSD card
 
-Remove microSD card (if present)
+### 9. Remove microSD card (if present)
 
-Install new Fedora 42 microSD card
+### 10. Install new Fedora 42 microSD card
 
-Gently close/secure bracket
+### 11. Gently close/secure bracket
 
-Reconnect battery
+### 12. Reconnect battery
 
-Replace keyboard
+### 13. Replace keyboard
 
-Close & flip laptop over
+### 14. Close & flip laptop over
 
-Gently tighten screws
+### 15. Gently tighten screws
 
-Replace the modules back to their slots
+### 16. Replace the modules back to their slots
 
-Plug-in power supply
+### 17. Plug-in power supply
 
-TURN ON THE POWER
+### 18. TURN ON THE POWER
+> This is the end of this exercise - do not log into the machine yet.
 
 
 
