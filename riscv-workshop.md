@@ -28,7 +28,7 @@ In this demo, Matt will walk everyone through the steps required to install the 
 > Please Note:  You can also follow along the demo with the slide deck.
 
 ## EXERCISE One (A):
-Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your laptop (or desktop).
+Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your laptop. 
 > For Desktop Users - go to EXERCISE One (B): 
 
 > Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
@@ -95,6 +95,16 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ### 18. TURN ON THE POWER
 > Open the laptop up and gently press the power button.
 > This is the end of this exercise - do not log into the machine yet.
+
+
+
+## EXERCISE One (B):
+Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your desktop.
+
+> Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
+
+## Steps:
+
 
 
 
