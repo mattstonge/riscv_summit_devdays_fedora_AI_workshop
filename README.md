@@ -12,7 +12,7 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 
 --------------------------------------------------------------------
 
-#Lab Exercises:
+# Lab Exercises:
 
 [LAB: Getting Started](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/riscv-workshop.md) 
 
@@ -21,17 +21,17 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 [LAB: Intro to AI](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/riscv-workshop3.md)
 
 
-#Supporting Materials
+# Supporting Materials
 
 [references](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
 
-#DC ROMA II RISC-V Laptop
+# DC ROMA II RISC-V Laptop
 
 [website](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii) 
 
 
 
-#Fedora 42 RISC-V Image Download
+# Fedora 42 RISC-V Image Download
 (insert link)
 
 --------------------------------------------------------------------
