@@ -26,7 +26,7 @@ Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 en
 
 
 #### 4. Online resizing of the root volume
-
+> This is the end of this exercise
 
 
 ## DEMO Two:
@@ -45,7 +45,7 @@ In this exercise we will optimize the desktop configruation.
 
 
 #### 3. Log back into the desktop environment
-
+> This is the end of this exercise
 
 
 ## DEMO Three:
