@@ -28,31 +28,49 @@ Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 en
 #### 4. Online resizing of the root volume
 
 
-#### 5. Gnome Desktop advanced configuration
+
+## DEMO Two:
+Matt will walkthorough advanced gnome desktop settings/optimization
 
 
-#### 6. Exit the desktop to allow settings to take effect
+## Hands-on Exercise Two:
+In this exercise we will optimize the desktop configruation.
+
+### STEPS:
+
+#### 1. Gnome Desktop advanced configuration
 
 
-#### 7. Log back into the desktop environment
+#### 2. Exit the desktop to allow settings to take effect
 
 
-#### 8. Systems settings deep dive
+#### 3. Log back into the desktop environment
 
 
-#### 9. Power Management
+
+## DEMO Three:
+Matt will walkthrough how to optimize the system in preparation for the AI applications installation.
+
+## Hands-on Exercise Three:
+
+### STEPS: 
+
+#### 1. Systems settings deep dive
 
 
-#### 10. Performance Co-Pilot (PCP) 
+#### 2. Power Management
 
 
-#### 11. TUNA & TuneD optimization
+#### 3. Performance Co-Pilot (PCP) 
 
 
-#### 12. System patching
+#### 4. TUNA & TuneD optimization
 
 
-#### 13. Reboot
+#### 5. System patching
+
+
+#### 6. Reboot
 > This is the end of this exercise
 
 
