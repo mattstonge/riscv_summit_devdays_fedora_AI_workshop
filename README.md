@@ -25,7 +25,7 @@ https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat
 
 [references](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
 
-# DC ROMA II RISC-V Laptop
+# DC ROMA II RISC-V - hardware: Laptops & Desktops
 
 [website](https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii) 
 
