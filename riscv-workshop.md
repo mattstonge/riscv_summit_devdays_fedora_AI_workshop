@@ -95,6 +95,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 11. Gently close/secure bracket
 > Gently close the bracket and secure the microSD card.
+![Close latch](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-close-latch.jpg)
+
 
 ### 12. Reconnect battery
 > Gently reattach the battery connector.
