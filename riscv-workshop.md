@@ -130,7 +130,17 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ### 18. TURN ON THE POWER
 > Open the laptop up and gently press the power button.
 > This is the end of this exercise - do not log into the machine yet.
+![First boot](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-boot.gif)
+> ....................
+> WELCOME
+> to
+> Fedora
+> on
+> RISC-V 
+> ....................
 
+
+--------------------------------------------------------------------------------
 
 
 ## EXERCISE One (B):
