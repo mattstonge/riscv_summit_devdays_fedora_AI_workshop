@@ -87,6 +87,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 9. Remove microSD card (if present)
 > If there was a microSD card in the slot, please set it aside.
+![Replace card](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-remove-replace-card.jpg)
+
 
 ### 10. Install new Fedora 42 microSD card
 > Place the Fedora 42 microSD card in the slot.
