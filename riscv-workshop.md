@@ -41,6 +41,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 1. Ensure power OFF
 > Power should already be off but if on shutdown the machine either via command line or the Graphical Desktop.
+![Power supply, all cords disconnected - POWER is OFF](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-power-off.jpg)
+
 
 ### 2. Unplug power supply
 > Disconnect the USB-C powersupply cable
