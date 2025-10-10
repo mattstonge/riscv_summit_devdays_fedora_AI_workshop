@@ -116,6 +116,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 15. Gently tighten screws
 > Gently secure the screws - do not over-tighten them as it can destroy the threading.
+![Secure the 5 screws](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-secure-screws.jpg)
+
 
 ### 16. Replace the modules back to their slots
 > Replace all modules back into the slots they were originally in.
