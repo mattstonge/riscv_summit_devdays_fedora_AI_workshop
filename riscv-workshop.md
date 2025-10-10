@@ -13,7 +13,7 @@ In this exercise, we will install a new operating system by installing a microSD
 
 Your workspace will contain either a DC ROMA II laptop or desktop (both leverage the same motherboard), a freshly flashed microSD card with Fedora 42, along with torx bit screwdriver and a smudger.
 
-![DC Roma II Laptop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop)
+![DC Roma II Laptop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-start.jpg)
 
 ## DEMO One:
 
