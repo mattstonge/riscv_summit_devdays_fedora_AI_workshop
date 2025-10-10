@@ -100,6 +100,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 12. Reconnect battery
 > Gently reattach the battery connector.
+![Reconnect battery](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-reconnect-battery.jpg)
+
 
 ### 13. Replace keyboard
 > Carefully, realign the keyboard in its place.
