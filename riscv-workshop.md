@@ -73,6 +73,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 7. Disconnect battery with smudger
 > Using the smudger, gently pry the battery connector off.
+![Disconnect battery](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-disconnect-battery.jpg)
+
 
 ### 8. Use smudger to gently lift the metal bracket holding the microSD card
 > Please Note: The card bracket is very fragile. It is on a hinge and should not be totally removed. 
