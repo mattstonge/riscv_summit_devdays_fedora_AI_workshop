@@ -104,10 +104,10 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 
 ### 13. Reconnect and replace keyboard
-> Carefully, realign the keyboard in its place.
+> Carefully, realign the ribbon cable connector and reconnect it. 
 ![Align connector](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-reconnect-kb1.jpg)
 ![Insert connector](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-reconnect-kb2.jpg)
-
+> Carefully, realign the keyboard in its place.
 
 
 ### 14. Close & flip laptop over
