@@ -60,6 +60,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 5. Flip laptop over (open faced)
 > Gently flip the laptop over and carefullt open it's screen, laying it flat and open on the table.
+![Open flat](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-open-flat.jpg)
+
 
 ### 6. Use smudger to gently pry up keyboard
 > Please Note: You must use extreme caution during this step as it is easy to break the ribbon cable from the keyboard that is attached to the mainboard.
