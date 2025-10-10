@@ -68,7 +68,7 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 > Use the smudger to gently pry up the keyboard which is also magnetically attached. Do not just rip it up and off but only raise it a few inches. 
 ![Open Lid](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-open-lid.jpg)
 > Just lift the keyboard high enough to gently disconnect it from the mainboard. Once you have disconnected the keyboard from the mainboard set it aside.
-![Open Lid](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-open-lid.jpg)
+![Open Lid](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-disconnect-ribbon.jpg)
 
 
 ### 7. Disconnect battery with smudger
