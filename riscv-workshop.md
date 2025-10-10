@@ -108,6 +108,7 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ![Align connector](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-reconnect-kb1.jpg)
 ![Insert connector](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-reconnect-kb2.jpg)
 > Carefully, realign the keyboard in its place.
+![Realign keyboard](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-replace-kb.jpg)
 
 
 ### 14. Close & flip laptop over
