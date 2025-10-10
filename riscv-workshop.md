@@ -49,6 +49,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 3. Remove all modules from both sides
 > While pressing the button between the slots, gently slide the modules outward.
+![Remove Modules](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-release-modules.jpg)
+
 
 ### 4. Unscrew bottom section from the keyboard
 > On the bottom of the laptop there are 5 screws. unscrew them with the torx bit.
