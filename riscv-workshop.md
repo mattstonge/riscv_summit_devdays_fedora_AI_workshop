@@ -103,8 +103,10 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ![Reconnect battery](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-reconnect-battery.jpg)
 
 
-### 13. Replace keyboard
+### 13. Reconnect and replace keyboard
 > Carefully, realign the keyboard in its place.
+
+
 
 ### 14. Close & flip laptop over
 > Carefully close the laptop lid and then flip the laptop over laying it flat on the table (screws visible)
