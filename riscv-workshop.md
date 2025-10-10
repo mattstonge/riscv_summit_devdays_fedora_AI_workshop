@@ -55,6 +55,8 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ### 4. Unscrew bottom section from the keyboard
 > On the bottom of the laptop there are 5 screws. unscrew them with the torx bit.
 > Please Note: The screws will NOT come all the way out - this is by design so they do not get lost. 
+![Unsecure 5 screws](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-unsecure-screws.jpg)
+
 
 ### 5. Flip laptop over (open faced)
 > Gently flip the laptop over and carefullt open it's screen, laying it flat and open on the table.
