@@ -10,6 +10,7 @@ Now, we will install addtional packages, optimize the desktop and tune the syste
 
 ## DEMO One: 
 Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 environment in preparation for the AI installations.
+![DC Roma II Laptop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-start.jpg)
 
 ## Hands-on Exercise One:
 **Overview:**  In this exercise we will shape and tune Fedora to optimally run AI. This part is hardware agnostic - the steps are the same for the desktop systems and the laptops.
