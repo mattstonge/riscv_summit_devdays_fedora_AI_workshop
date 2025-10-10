@@ -65,7 +65,9 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 6. Use smudger to gently pry up keyboard
 > Please Note: You must use extreme caution during this step as it is easy to break the ribbon cable from the keyboard that is attached to the mainboard.
-> Use the smudger to gently pry up the keyboard which is also magnetically attached. Do not just rip it up and off but only raise it a few inches. Just high enough to gently disconnect it from the mainboard. Once you have disconnected the keyboard from the mainboard set it aside.
+> Use the smudger to gently pry up the keyboard which is also magnetically attached. Do not just rip it up and off but only raise it a few inches. 
+![Open Lid](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-open-lid.jpg)
+> Just lift the keyboard high enough to gently disconnect it from the mainboard. Once you have disconnected the keyboard from the mainboard set it aside.
 ![Open Lid](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-open-lid.jpg)
 
 
