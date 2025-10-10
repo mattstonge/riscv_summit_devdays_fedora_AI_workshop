@@ -81,7 +81,9 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 > Please Note: The card bracket is very fragile. It is on a hinge and should not be totally removed. 
 > USE EXTREME CAUTION
 > Gentry use the smudger to unlock the card bracket (it will swing upwards but not come off).
+![Old microSD](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-old-microSD.jpg)
 
+![Lift latch](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-lift-latch.jpg)
 
 ### 9. Remove microSD card (if present)
 > If there was a microSD card in the slot, please set it aside.
