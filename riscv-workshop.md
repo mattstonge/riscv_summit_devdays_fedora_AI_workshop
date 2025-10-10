@@ -121,6 +121,9 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 ### 16. Replace the modules back to their slots
 > Replace all modules back into the slots they were originally in.
+![Replace modules](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-replace-modules.gif)
+
+
 ### 17. Plug-in power supply
 > Plug the USB-C power cord back into a USB-C slot.
 
