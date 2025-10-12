@@ -17,8 +17,6 @@ Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 en
 
 ### Steps: 
 
-#### x. Disabling predefined repositories
-
 #### 1. Initial login
 > log into the laptop with the default user "roma" and password "roma".
 
@@ -31,8 +29,18 @@ Enter the WIFI passphrase: (TBD)
 > information for the network configuration will be provided.
 
 #### 3. Configure Date/Time
-> information will be provided
+> Open the Settings menu
 
+> Scroll down and Select: System
+
+
+> Select: Date & Time
+
+
+> Activate: Automatic Time Zone & Clock & Calendar: Weekday by clicking on the activation switch.
+
+
+> exit Settings
 
 #### 4. Disable Bluetooth
 > Disabling Bluetooth as it's not needed - and anything not needed should be disabled for security reasons.
@@ -42,7 +50,16 @@ Enter the WIFI passphrase: (TBD)
 
 
 #### x. Initial package installation
+> Open a terminal session
+``` 
+sudo -i
+(enter roma password when prompted)
 
+dnf install -y gnome-tweaks gnome-shell-extension
+
+
+
+```
 
 #### x. Online resizing of the root volume
 
