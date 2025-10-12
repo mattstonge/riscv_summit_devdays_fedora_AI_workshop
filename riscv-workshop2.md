@@ -17,17 +17,34 @@ Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 en
 
 ### Steps: 
 
-#### 1. Disabling predefined repositories
+#### x. Disabling predefined repositories
+
+#### 1. Initial login
+> log into the laptop with the default user "roma" and password "roma".
+
+#### 2. Configure network
+> CLick on the upper right-hand corner of the screen to bring up the settings.
+Select: WIFI
+A list of available WIFI hotspots will appear
+Select: (TBD)
+Enter the WIFI passphrase: (TBD)
+> information for the network configuration will be provided.
+
+#### 3. Configure Date/Time
+> information will be provided
 
 
-#### 2. Custom workshop repository configuration
+#### 4. Disable Bluetooth
+> Disabling Bluetooth as it's not needed - and anything not needed should be disabled for security reasons.
+
+#### x. Custom workshop repository configuration
+> information will be provided
 
 
-#### 3. Initial package installation
+#### x. Initial package installation
 
 
-#### 4. Online resizing of the root volume
-> This is the end of this exercise
+#### x. Online resizing of the root volume
 
 
 ## DEMO Two:
