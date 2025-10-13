@@ -151,6 +151,23 @@ Matt will walkthrough how to optimize the system in preparation for the AI appli
 
 
 #### 2. Power Management
+> Open up the Settings main menu and Select: Power
+![Power 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power1.png)
+
+
+
+![Power 2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power2.png)
+
+
+
+
+![Power 3](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power3.png)
+
+
+
+
+![Power 4](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power4.png)
+
 
 
 #### 3. Performance Co-Pilot (PCP) 
