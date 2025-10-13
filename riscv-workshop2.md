@@ -94,6 +94,40 @@ $ gnome-tweaks
 #### x. Online resizing of the root volume
 
 
+![Disks 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks1.png)
+
+
+![Disks 2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks2.png)
+
+
+![Disks 3](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks3.png)
+
+
+![Disks 4](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks4.png)
+
+
+![Disks 5](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks5.png)
+
+
+![Disks 6](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks6.png)
+
+
+![Disks 7](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks7.png)
+
+
+![Disks 8](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks8.png)
+
+
+![Disks 9](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks9.png)
+
+
+
+
+
+
+
+
+
 ## DEMO Two:
 Matt will walkthorough advanced gnome desktop settings/optimization
 
