@@ -90,6 +90,13 @@ $ gnome-tweaks
 
 ![Tweaks selected](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-tweaks4.png)
 > Once you select (Activate) Maximize & (Activate) Minimize - exit the application.
+> You can also exit the terminal window as well...
+
+```
+
+$ exit 
+
+```
 
 #### x. Online resizing of the root volume
 
