@@ -155,19 +155,21 @@ Matt will walkthrough how to optimize the system in preparation for the AI appli
 ![Power 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power1.png)
 
 
-
+> Click on Show Battery Percentage - and a new Battery indicator will appear in the top bar.
 ![Power 2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power2.png)
 
 
 
-
+> Click on the Power Saving tab and more options will appear.
 ![Power 3](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power3.png)
 
 
 
-
+> Disable Automatic Screen Brightness
+> Disable Dim Screen
+> Disable Automatic Screen Blank
 ![Power 4](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-power4.png)
-
+> Once completed, you can exit Settings.
 
 
 #### 3. Performance Co-Pilot (PCP) 
