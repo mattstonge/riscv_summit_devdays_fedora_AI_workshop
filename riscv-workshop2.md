@@ -62,10 +62,18 @@ Enter the WIFI passphrase: (TBD)
 #### x. Initial package installation
 > Open a terminal session
 ``` 
-sudo -i
+$  sudo -i
 (enter roma password when prompted)
 
-dnf install -y gnome-tweaks gnome-shell-extension
+#  dnf install -y gnome-tweaks 
+(output omitted)
+
+
+#  dnf install -y info 
+
+# exit
+
+$ gnome-tweaks
 
 
 
