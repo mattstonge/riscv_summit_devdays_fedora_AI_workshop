@@ -24,9 +24,12 @@ Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 en
 
 #### 2. Configure network
 > CLick on the upper right-hand corner of the screen to bring up the settings.
-Select: WIFI
+Select: WIFI (by clicking on the side arrow next to "WIFI")
+![WIFI Menu access](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-WIFI1.png)
+
 A list of available WIFI hotspots will appear
-Select: (TBD)
+Select: (We'll let you know which one to connect to)
+![SSID Selection](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-WIFI2.png)
 Enter the WIFI passphrase: (TBD)
 > information for the network configuration will be provided.
 
