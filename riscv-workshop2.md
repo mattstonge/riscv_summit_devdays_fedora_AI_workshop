@@ -37,13 +37,13 @@ Enter the WIFI passphrase: (TBD)
 > Open the Settings menu
 
 > Scroll down and Select: System
-
+![System Menu](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-daytime1.png)
 
 > Select: Date & Time
-
+![Date Time Options](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-daytime2.png)
 
 > Activate: Automatic Time Zone & Clock & Calendar: Weekday by clicking on the activation switch.
-
+![Enable Date Time options](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-daytime3.png)
 
 > exit Settings
 
