@@ -108,12 +108,13 @@ $ exit
 ![Disks 2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks2.png)
 
 > Click on "Disks"
+> What appears next is the filesystem layout on the microSD card where Fedora 42 is installed.
 ![Disks 3](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks3.png)
 
-
+> Click on the volume called "root" 
 ![Disks 4](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks4.png)
 
-
+> Click on the gear box to bring up the options menu
 ![Disks 5](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks5.png)
 
 
