@@ -49,6 +49,11 @@ Enter the WIFI passphrase: (TBD)
 
 #### 4. Disable Bluetooth
 > Disabling Bluetooth as it's not needed - and anything not needed should be disabled for security reasons.
+> Click on the upper right hand corner to engage the settings panel.
+![See BT](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-BT1.png)
+
+> Click on the "Bluetooth" button (this is a switch that can enable/disable - we don't need to open the full settings dialog)
+![BT off](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-BT2.png)
 
 #### x. Custom workshop repository configuration
 > information will be provided
