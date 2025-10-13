@@ -19,6 +19,8 @@ Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 en
 
 #### 1. Initial login
 > log into the laptop with the default user "roma" and password "roma".
+![Gnome Login](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-gnome-login.jpg)
+
 
 #### 2. Configure network
 > CLick on the upper right-hand corner of the screen to bring up the settings.
