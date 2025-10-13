@@ -135,29 +135,12 @@ $ exit
 
 
 
-## DEMO Two:
-Matt will walkthorough advanced gnome desktop settings/optimization
 
 
-## Hands-on Exercise Two:
-In this exercise we will optimize the desktop configruation.
-
-### STEPS:
-
-#### 1. Gnome Desktop advanced configuration
-
-
-#### 2. Exit the desktop to allow settings to take effect
-
-
-#### 3. Log back into the desktop environment
-> This is the end of this exercise
-
-
-## DEMO Three:
+## DEMO Two
 Matt will walkthrough how to optimize the system in preparation for the AI applications installation.
 
-## Hands-on Exercise Three:
+## Hands-on Exercise Two:
 
 ### STEPS: 
 
