@@ -148,6 +148,18 @@ Matt will walkthrough how to optimize the system in preparation for the AI appli
 ### STEPS: 
 
 #### 1. Systems settings deep dive
+> In the previous exercises we installed a tool called "btop". Open a terminal session.
+
+```
+
+$  btop
+
+```
+
+![btop 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-btop1.png)
+> You can now exit BTOP by pressing "q" or by closing the terminal.
+
+
 
 
 #### 2. Power Management
