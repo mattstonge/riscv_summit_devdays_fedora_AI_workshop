@@ -117,16 +117,17 @@ $ exit
 > Click on the gear box to bring up the options menu
 ![Disks 5](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks5.png)
 
-
+> Click on "Resize"
 ![Disks 6](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks6.png)
 
-
+> Move the slider all the way to the farthest point on the far right.
 ![Disks 7](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks7.png)
 
-
+> Click the red RESIZE button.
+> Once the spinning disc has stopped (and disappears) the resize operation is complete and you may exit gnome-disks.
 ![Disks 8](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks8.png)
 
-
+> OPTIONAL - you could open a terminal and perform a "df -h" to verify the resize.
 ![Disks 9](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-disks9.png)
 
 
