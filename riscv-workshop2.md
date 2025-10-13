@@ -69,7 +69,7 @@ $  sudo -i
 (output omitted)
 
 
-#  dnf install -y info 
+#  dnf install -y info btop
 
 # exit
 
