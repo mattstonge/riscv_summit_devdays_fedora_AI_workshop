@@ -173,6 +173,35 @@ Matt will walkthrough how to optimize the system in preparation for the AI appli
 
 
 #### 3. Performance Co-Pilot (PCP) 
+> In this exercise, we will install Performance Co-Pilot (Otherwise known as PCP). This tool will allow for near realtime graphical performance analysis of many metrics - however we will only install just a few of these checks for this workshop.
+
+
+> Open a terminal.
+
+```
+$  sudo -i
+
+# dnf install -y   pcp  pcp-conf pcp-devel pcp-doc pcp-libs pcp-libs-devel pcp-gui
+(output omitted)
+
+# dnf install -y pcp2pdf pcp-pmda-dm pcp-pmda-bash pcp-pmda-lmsensors
+(output omitted)
+
+# dnf install -y  pcp-pmda-memcache pcp-pmda-netcheck pcp-pmda-podman pcp-pmda-rsyslog
+(output omitted)
+
+# dnf install -y  pcp-pmda-sockets pcp-pmda-summary pcp-pmda-trace pcp-pmda-systemd pcp-system-tools
+
+# reboot
+
+```
+
+> Once the system has rebooted, log back into Gnome Desktop.
+
+
+
+
+
 
 
 #### 4. TUNA & TuneD optimization
