@@ -158,6 +158,26 @@ Matt will walkthrough how to optimize the system in preparation for the AI appli
 
 #### 4. TUNA & TuneD optimization
 
+![Enable tuned](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuned1.png)
+
+> As root, in a terminal, type "tuna"
+> The TUNA interface will appear - confirm the autocorrect by clicking "YES" 
+![Initial tuna](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna1.png)
+
+
+> REBOOT now
+> Login, open a terminal and reopen the tuna interface
+
+![tuna screen 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna2.png)
+
+
+![tuna screen 2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna3.png)
+
+
+![tuna screen 3](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna4.png)
+
+
+
 
 #### 5. System patching
 
