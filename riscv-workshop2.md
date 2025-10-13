@@ -76,8 +76,20 @@ $  sudo -i
 $ gnome-tweaks
 
 
-
 ```
+
+> We'll now use the gnome-tweaks application to ensure the minimize and maximize buttons are added to all windowsd within the Gnome Desktop envionrment.
+![tweaks launch](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-tweaks1.png)
+> Click "OK" to continue...
+> In the left menu - Select "Windows"
+![tweak selection1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-tweaks2.png)
+
+
+![tweak window options](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-tweaks3.png)
+
+
+![Tweaks selected](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-tweaks4.png)
+> Once you select (Activate) Maximize & (Activate) Minimize - exit the application.
 
 #### x. Online resizing of the root volume
 
