@@ -192,8 +192,14 @@ $  btop
 
 
 #### 3. Performance Co-Pilot (PCP) 
-**SKIP THIS SECTION - RUN After 3rd Lab**
+> 
+**SKIP THIS SECTION - RUN AFTER 3rd LAB IF TIME PERMITS**
+> 
+
 **Due to overhead - we recommend you skip this section and optionally run it after the 3rd lab**
+>
+
+
 
 > In this exercise, we will install Performance Co-Pilot (Otherwise known as PCP). This tool will allow for near realtime graphical performance analysis of many metrics - however we will only install just a few of these checks for this workshop.
 > PLEASE NOTE:  PCP is great for debugging, capacity planning, and troubleshooting ... BUT ... it does add a significant amount of overhead to any system... Use it accordingly.
