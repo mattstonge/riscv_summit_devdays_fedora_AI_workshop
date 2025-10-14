@@ -12,6 +12,13 @@ Now, we will install addtional packages, optimize the desktop and tune the syste
 Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 environment in preparation for the AI installations.
 ![DC Roma II Laptop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-start.jpg)
 
+
+
+> 
+
+
+--------------------------------------------------------
+
 ## Hands-on Exercise One:
 **Overview:**  In this exercise we will shape and tune Fedora to optimally run AI. This part is hardware agnostic - the steps are the same for the desktop systems and the laptops.
 
@@ -32,6 +39,7 @@ Select: (We'll let you know which one to connect to)
 ![SSID Selection](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-WIFI2.png)
 Enter the WIFI passphrase: (TBD)
 > information for the network configuration will be provided.
+> 
 
 #### 3. Configure Date/Time
 > Open the Settings menu
@@ -46,6 +54,7 @@ Enter the WIFI passphrase: (TBD)
 ![Enable Date Time options](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-daytime3.png)
 
 > exit Settings
+>
 
 #### 4. Disable Bluetooth
 > Disabling Bluetooth as it's not needed - and anything not needed should be disabled for security reasons.
@@ -55,8 +64,13 @@ Enter the WIFI passphrase: (TBD)
 > Click on the "Bluetooth" button (this is a switch that can enable/disable - we don't need to open the full settings dialog)
 ![BT off](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-BT2.png)
 
+> 
+
+
 #### 5. Custom workshop repository configuration
 > information will be provided (if other than provided by what's configured in the image)
+
+> 
 
 
 #### 6. Initial package installation
@@ -98,6 +112,9 @@ $ exit
 
 ```
 
+> 
+
+
 #### 7. Online resizing of the root volume
 > In this exercise we will do an online resizing of the ROOT volume so as we have enough diskspace to update Fedora, add more applications and eventually add some AI models.
 
@@ -137,7 +154,7 @@ $ exit
 
 
 
-
+--------------------------------------------------------
 
 
 
