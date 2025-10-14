@@ -102,6 +102,7 @@ $ exit
 > In this exercise we will do an online resizing of the ROOT volume so as we have enough diskspace to update Fedora, add more applications and eventually add some AI models.
 
 **PLEASE NOTE: On some machines the Fedora First Boot sequence may have already don this behind the scenes.**
+**To test if you need to resize - run "df -h" in a terminal - if root ( / ) is not greater than 200GB - you need to execute this exercise.**
 
 > First, click on the bar in the upper left hand corner, and then click on the box of 9 dots at the bottom of the screen - this will show a screen with installed applications to choose from.
 
