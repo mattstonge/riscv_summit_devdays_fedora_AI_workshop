@@ -321,7 +321,7 @@ $  sudo -i
 
 > 
 
-> Back ion that same terminal, as root: 
+> Back in that same terminal, as root: 
 
 ```
 
@@ -332,9 +332,23 @@ $  sudo -i
 > The TUNA interface will appear - confirm the autocorrect by clicking "YES" 
 ![Initial tuna](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna1.png)
 
+> After about 15 seconds, close the tuna interface and return to the terminal
 
-> REBOOT now
-> Login, open a terminal and reopen the tuna interface
+```
+
+#  reboot
+
+```
+
+> After the reboot completes, log back in and open a terminal and reopen the tuna interface
+
+```
+
+$  sudo -i 
+
+#  tuna 
+
+```
 
 ![tuna screen 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna2.png)
 
