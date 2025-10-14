@@ -227,13 +227,11 @@ $  btop
 
 #### 3. Performance Co-Pilot (PCP) 
 > 
-**SKIP THIS SECTION - RUN AFTER 3rd LAB IF TIME PERMITS**
-> 
-
-**Due to overhead - we recommend you skip this section and optionally run it after the 3rd lab**
+> Placeholder for discussion on PCP Charts
+**Due to overhead - removed from this exercise**
 >
-**Content moved to prevent confusion**
-> This exercise has been moved to ![Supporting Materials](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
+**Exercise content was removed to prevent confusion**
+> If you would like to review the exercise after the AI lab, the PCP Charts exercise has been moved to ![Supporting Materials](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
 
 > 
 > 
