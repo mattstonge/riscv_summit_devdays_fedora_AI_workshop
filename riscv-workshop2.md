@@ -211,6 +211,41 @@ $  sudo -i
 > Once the system has rebooted, log back into Gnome Desktop.
 
 
+> Go to the applications selector (upper left hand corner) and scroll until you find "PCP Charts" - click on the icon.
+![PCP 1](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp1.png)
+
+
+
+![PCP 2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp2.png)
+
+
+
+![PCP 3](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp3.png)
+
+
+
+
+![PCP 4](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp4.png)
+
+
+
+
+![PCP 5](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp5.png)
+
+
+
+
+![PCP 6](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp6.png)
+
+
+
+
+![PCP 7](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-pcp7.png)
+
+
+
+
+
 
 
 
