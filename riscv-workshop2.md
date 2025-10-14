@@ -55,11 +55,11 @@ Enter the WIFI passphrase: (TBD)
 > Click on the "Bluetooth" button (this is a switch that can enable/disable - we don't need to open the full settings dialog)
 ![BT off](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2-BT2.png)
 
-#### x. Custom workshop repository configuration
-> information will be provided
+#### 5. Custom workshop repository configuration
+> information will be provided (if other than provided by what's configured in the image)
 
 
-#### x. Initial package installation
+#### 6. Initial package installation
 > Open a terminal session
 ``` 
 $  sudo -i
@@ -98,7 +98,7 @@ $ exit
 
 ```
 
-#### x. Online resizing of the root volume
+#### 7. Online resizing of the root volume
 > In this exercise we will do an online resizing of the ROOT volume so as we have enough diskspace to update Fedora, add more applications and eventually add some AI models.
 > First, click on the bar in the upper left hand corner, and then click on the box of 9 dots at the bottom of the screen - this will show a screen with installed applications to choose from.
 
