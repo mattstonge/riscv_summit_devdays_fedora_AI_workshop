@@ -302,10 +302,33 @@ $  sudo -i
 
 
 #### 4. TUNA & TuneD optimization
+> In this exercise, we will install the tuned service and walkthrough tuna, a grphical interface for monitoring, configuring and sharing system tuning profiles.
+
+> Let's start by opening a terminal.
+
+```
+
+$  sudo -i 
+
+#  dnf install -y tuned tuna 
+(output omitted)
+
+#  systemctl enable --now tuned
+
+```
 
 ![Enable tuned](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuned1.png)
 
-> As root, in a terminal, type "tuna"
+> 
+
+> Back ion that same terminal, as root: 
+
+```
+
+# tuna 
+
+```
+
 > The TUNA interface will appear - confirm the autocorrect by clicking "YES" 
 ![Initial tuna](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab2a-tuna1.png)
 
