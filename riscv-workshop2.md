@@ -8,6 +8,13 @@ A hands-on workshop
 ## Overview
 Now, we will install addtional packages, optimize the desktop and tune the systems in preparation for the setup of our AI environments.
 
+> 
+
+
+
+
+--------------------------------------------------------
+
 ## DEMO One: 
 Matt will demo the multiple steps to enhance, tune and optimize the Fedora 42 environment in preparation for the AI installations.
 ![DC Roma II Laptop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-start.jpg)
@@ -163,6 +170,16 @@ $ exit
 
 ## DEMO Two
 Matt will walkthrough how to optimize the system in preparation for the AI applications installation.
+
+
+> 
+
+
+
+
+--------------------------------------------------------
+
+
 
 ## Hands-on Exercise Two:
 
