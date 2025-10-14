@@ -231,7 +231,7 @@ $  btop
 **Due to overhead - removed from this exercise**
 >
 **Exercise content was removed to prevent confusion**
-> If you would like to review the exercise after the AI lab, the PCP Charts exercise has been moved to ![Supporting Materials](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
+> If you would like to review the exercise after the AI lab, the PCP Charts exercise has been moved to [Supporting Materials](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
 
 > 
 > 
