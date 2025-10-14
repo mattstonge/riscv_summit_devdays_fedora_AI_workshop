@@ -275,9 +275,29 @@ $  sudo -i
 
 
 #### 5. System patching
+> Before we get into the AI section of this workshop, we'll update the system and reboot.
+> Open a terminal and update the system.
+> PLEASE NOTE: This will take several minutes. Take a quick break....
 
+```
+
+$  sudo -i
+
+#  dnf update -y 
+(output omitted)
+
+```
 
 #### 6. Reboot
+> Once all the patching has completed, you need to reboot/restart the system.
+
+```
+
+# reboot
+
+```
+
+
 > This is the end of this exercise
 
 
