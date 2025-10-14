@@ -49,6 +49,7 @@ $ btop
 
 ```
 
+### Step 2:
 > now open another terminal window and resize it to fill only the upper right corner of the screen.
 
 ```
@@ -57,14 +58,20 @@ $  sudo ./start-server.sh
 
 ```
 
+>
+
+### Step 3:
 > While that is running...
 > Open the **Files** application.
 > Double-click on **ollama-deepseek7b.html** , this will open a browser window. Resize the browser window to take up more than half of the lower right side of the screen.
 
+>
 
-
-### Step 2:
-
+### Step 4:
+> This is where the fun starts.
+> Type a question into the window.
+**PLEASE NOTE:  The first time a question is asked - the model must be loaded**
+**This process takes about 3-4 minutes - please be patient..**
 
 
 
