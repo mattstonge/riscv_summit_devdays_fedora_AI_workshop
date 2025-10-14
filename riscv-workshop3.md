@@ -4,9 +4,16 @@ A hands-on workshop
 [BACK to HOMEPAGE](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/README.md)
 
 
+> 
+
+> 
+
+
 
 ## Overview
 > It's time for the Main Event - playing with AI!!!
+
+![AI Takes over the world](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/AI-running01.gif)
 
 > 
 
