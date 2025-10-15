@@ -6,9 +6,12 @@ Matt St. Onge
 &
 Yuning Liang
 
-Session Info:
-https://riscvdeveloperday2025.sched.com/event/28lka/talk-tbd-red-hat 
 
+
+--------------------------------------------------------------------
+
+Session Info:
+[Session Link](https://riscvdeveloperday2025.sched.com/event/28lka/getting-started-with-risc-v-linux-and-ai-matt-st-onge-red-hat-yuning-liang-deepcomputing)
 
 --------------------------------------------------------------------
 
