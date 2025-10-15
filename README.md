@@ -1,12 +1,8 @@
 # Getting Started with RISC-V, Fedora and AI
 Hands-on Workshop for RISC-V Summit Developer Days 
 
-Presented By:  
-Matt St. Onge
-&
-Yuning Liang
-
-
+![Session](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/Summit-Session.jpeg)
+Presented By Matt St. Onge & Yuning Liang
 
 --------------------------------------------------------------------
 
