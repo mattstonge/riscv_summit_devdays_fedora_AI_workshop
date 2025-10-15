@@ -24,9 +24,14 @@ Session Info:
 [LAB: Intro to AI](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/riscv-workshop3.md)
 
 
+--------------------------------------------------------------------
+
 # Supporting Materials
 
 [references](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/supporting-materials.md)
+
+
+--------------------------------------------------------------------
 
 # DC ROMA II RISC-V - hardware: Laptops & Desktops
 
@@ -35,6 +40,7 @@ Session Info:
 
 
 # Fedora 42 RISC-V Image Download
-(insert link)
+[Download Link](https://drive.google.com/file/d/1EN0Zi4rXLGgSnR7Qu8Ymf-qE0hF90AeD/view?usp=sharing)
+
 
 --------------------------------------------------------------------
