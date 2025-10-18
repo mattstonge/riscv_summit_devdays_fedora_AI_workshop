@@ -75,3 +75,60 @@ $  sudo ./start-server.sh
 
 
 
+
+
+## Manually running AI
+
+### STEP 1: 
+> Open a terminal - set the window size and location to take up a small corner of the screen.
+
+```
+
+$  sudo -i 
+
+#  es_ollama serve
+
+```
+
+### STEP 2: 
+> Open another terminal - set this one's size to take up the bottom corner of the screen.
+> In the terminal's View settings - Zoom out (twice)...This will enable the command to display properly.
+
+```
+
+$ btop
+
+```
+
+### STEP 3: 
+> Open another terminal - set this one to take up the entire right sidew of the screen.
+> Let's see what models are available locally.
+
+```
+
+$  sudo -i
+
+#  es_ollama list
+
+
+NAME                 ID            SIZE            MODIFIED
+my-deepseek:latest   a7a9b3d5623a  2.2 GB          9 days ago
+
+# 
+
+```
+
+### STEP 4:
+> Let's run that model and play with it some...
+> In the right side terminal window - run the following command to start the model.
+
+```
+
+#  es_ollama run my-deepseek
+
+>>> Send a message (/? for help?
+
+```
+
+
+
