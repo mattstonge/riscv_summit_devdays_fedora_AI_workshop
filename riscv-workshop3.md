@@ -20,7 +20,7 @@ A hands-on workshop
 ----------------------------------------------
 
 
-## Demo Three:  Running AI
+## Demo Three:  Running AI (Web Chatbot)
 Matt & Yuning will demonstrate running ollama locally with RISC-V on Fedora 42.
 Quick discussion on the how and the why this is more than cool - but critical.
 
@@ -77,7 +77,8 @@ $  sudo ./start-server.sh
 
 
 
-## Manually running AI
+## Demo Four: Manually running AI
+> Matt will demo command line usage of AI.
 
 ### STEP 1: 
 > Open a terminal - set the window size and location to take up a small corner of the screen.
@@ -129,6 +130,11 @@ my-deepseek:latest   a7a9b3d5623a  2.2 GB          9 days ago
 >>> Send a message (/? for help?
 
 ```
+
+### STEP 5:
+> Engage the model - ask it some questions.
+
+
 
 
 
