@@ -77,13 +77,16 @@ $  sudo ./start-server.sh
 ### Step 4:
 > This is where the fun starts.
 > Type a question into the window.
-**PLEASE NOTE:  The first time a question is asked - the model must be loaded**
-**This process takes about 3-4 minutes - please be patient..**
+
+
+>**PLEASE NOTE:  The first time a question is asked - the model must be loaded**
+
+
+>**This process takes about 3-4 minutes - please be patient..**
 
 ![First Web Prompt](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-AI-prompt1.png)
 
 >
-** PLEASE NOTE: The first time you submit a prompt, there will be a ~3 minute delay as it loads/prepares the model. **
 
 ## Demo Four: Manually running AI
 > Matt will demo command line usage of AI.
