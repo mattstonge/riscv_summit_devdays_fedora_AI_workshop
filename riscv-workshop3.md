@@ -86,7 +86,21 @@ $  sudo ./start-server.sh
 
 ![First Web Prompt](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-AI-prompt1.png)
 
->
+>An example question...
+
+![question](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-question.png)
+
+>And a witty reply...
+![question](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-
+response.png)
+
+
+
+
+----------------------------------------------
+
+
+
 
 ## Demo Four: Manually running AI
 > Matt will demo command line usage of AI.
