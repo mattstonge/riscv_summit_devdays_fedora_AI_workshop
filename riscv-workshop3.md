@@ -49,6 +49,8 @@ $ btop
 
 ```
 
+![btop](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-btop.png)
+
 ### Step 2:
 > now open another terminal window and resize it to fill only the upper right corner of the screen.
 
