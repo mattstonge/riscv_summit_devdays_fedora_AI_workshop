@@ -60,6 +60,8 @@ $  sudo ./start-server.sh
 
 ```
 
+![start-server](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-start-server.png)
+
 >
 
 ### Step 3:
@@ -69,14 +71,18 @@ $  sudo ./start-server.sh
 
 >
 
+![files](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-click-html-file.png)
+
+
 ### Step 4:
 > This is where the fun starts.
 > Type a question into the window.
 **PLEASE NOTE:  The first time a question is asked - the model must be loaded**
 **This process takes about 3-4 minutes - please be patient..**
 
+![First Web Prompt](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-AI-prompt1.png)
 
-
+>
 
 
 ## Demo Four: Manually running AI
