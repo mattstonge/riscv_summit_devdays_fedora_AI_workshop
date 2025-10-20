@@ -91,8 +91,9 @@ $  sudo ./start-server.sh
 ![question](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-question.png)
 
 >And a witty reply...
-![question](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-
-response.png)
+
+![response](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-response.png)
+
 
 
 
