@@ -83,7 +83,7 @@ $  sudo ./start-server.sh
 ![First Web Prompt](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3-AI-prompt1.png)
 
 >
-***PLEASE NOTE: The first time you submit a prompt, there will be a ~3 minute delay as it loads/prepares the model. ***
+** PLEASE NOTE: The first time you submit a prompt, there will be a ~3 minute delay as it loads/prepares the model. **
 
 ## Demo Four: Manually running AI
 > Matt will demo command line usage of AI.
