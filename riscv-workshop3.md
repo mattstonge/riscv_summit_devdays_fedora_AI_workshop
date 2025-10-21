@@ -1,13 +1,17 @@
 ﻿# Intro to AI on RISC-V
 A hands-on workshop
 
+-----------------------------------------------------------------
+
 [BACK to HOMEPAGE](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/README.md)
 
 
-> 
+-----------------------------------------------------------------
+![remix](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/fedora_remix_dark_blue_and_white.png) 
 
-> 
+![DeepComputing](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/DeepComputing-logo.gif)
 
+----------------------------------------------------------------
 
 
 ## Overview
