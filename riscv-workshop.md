@@ -150,7 +150,7 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 > Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
 
-![Cooler master]()
+![Cooler master](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-cooler-master-login.jpg)
 
 
 
@@ -164,7 +164,7 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ### 1. Ensure power is OFF
 > Easily identified by light being OFF
 
-![light off](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-power-off.jpg)
+![light off](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-power-off.jpg)
 
 
 ### 2. Disconnect USB Hub & USB-C power supply from the case
