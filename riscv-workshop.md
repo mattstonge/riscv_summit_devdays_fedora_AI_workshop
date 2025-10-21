@@ -142,11 +142,21 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 --------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------
+
 
 ## EXERCISE One (B):
 Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your desktop.
 
 > Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
+
+![Cooler master]()
+
+
+
+--------------------------------------------------------------------------------
+
+
 
 ## Steps:
 
