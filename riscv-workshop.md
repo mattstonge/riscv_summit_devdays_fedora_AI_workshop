@@ -203,17 +203,31 @@ Since we have flashed 1TB NVMe drives in advance (for time saving measures), we'
 
 
 ### 7. Replace all the case screws
+> Using the Torx #5 bit, gently replace all the screws - do not over-tighten as it may cause damage to the case.
 
+
+![screws to be reset](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-screws-defined.jpg)
+
+
+
+![replace screws](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-case-screws.jpg)
 
 
 ### 8. Reconnect the USB Hub
+> In the upper right empty slot - reconnect the USB Hub to the case
+
+![USB-HUB](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-USB-hub.jpg)
 
 
 ### 9. Connect KB & Mouse to USB Hub
+> Reconnect the USB Keyboard and USB mouse to the USB Hub (if disconnected)
 
+![KB mouse](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-USB-connections.jpg)
 
 ### 10. Connect the HDMI cable to USB Hub
+> Reconnect the HDMI cable to the USB Hub (if disconnected)
 
+![HDMI](
 
 ### 11. Reconnect the power supply (USB-C) directly into slot
 
