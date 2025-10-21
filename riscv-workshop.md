@@ -229,6 +229,7 @@ Since we have flashed 1TB NVMe drives in advance (for time saving measures), we'
 
 ![HDMI](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-hdmi1.jpg)
 
+
 ![HDMI2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-hdmi2.jpg)
 
 ### 11. Reconnect the power supply (USB-C) directly into slot
