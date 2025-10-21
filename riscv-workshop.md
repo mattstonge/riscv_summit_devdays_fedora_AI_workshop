@@ -227,12 +227,35 @@ Since we have flashed 1TB NVMe drives in advance (for time saving measures), we'
 ### 10. Connect the HDMI cable to USB Hub
 > Reconnect the HDMI cable to the USB Hub (if disconnected)
 
-![HDMI](
+![HDMI](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-hdmi1.jpg)
+
+![HDMI2](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-hdmi2.jpg)
 
 ### 11. Reconnect the power supply (USB-C) directly into slot
+> Reconnect USB-C Power connection to upper left open slot.
 
+![power reconnect](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-power-supply.jpg)
 
 
 ### 12. Boot the system
+> Press the power button - light should come on and within a few seconds the system will startup.
 
+![power press](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-power-press.jpg)
+
+![light on](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-power-light.jpg)
+
+![booting](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1B-riscv-ai-screen.jpg)
+
+----------------------------------------------------------------
+
+![running](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-cooler-master-login.jpg)
+
+
+> ....................
+> WELCOME
+> to
+> Fedora
+> on
+> RISC-V
+> ....................
 
