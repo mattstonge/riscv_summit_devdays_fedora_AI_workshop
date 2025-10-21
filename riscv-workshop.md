@@ -152,14 +152,25 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 
 ### 1. Ensure power is OFF
+> Easily identified by light being OFF
 
+![light off](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1-power-off.jpg)
 
 
 ### 2. Disconnect USB Hub & USB-C power supply from the case
+> Once you have confirmed power is off, disconnect the two USB cables from the case.
 
+![case ready](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-case-ready.jpg)
 
 
 ### 3. Remove the case screws
+> Carefully remove the case csrews (using the torx #5 bit)
+
+> Be sure to carefully set them aside as they are easily lost.
+
+![screws ID](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-screws-defined.jpg)
+
+![screw removal](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-case-screws.jpg)
 
 
 
