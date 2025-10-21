@@ -151,5 +151,47 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 ## Steps:
 
 
+### 1. Ensure power is OFF
+
+
+
+### 2. Disconnect USB Hub & USB-C power supply from the case
+
+
+
+### 3. Remove the case screws
+
+
+
+### 4. Use the smudger to pop open the case
+
+
+
+### 5. Remove/Replace the NVMe drive (or microSD card)
+
+
+
+### 6. Snap over back in place
+
+
+
+### 7. Replace all the case screws
+
+
+
+### 8. Reconnect the USB Hub
+
+
+### 9. Connect KB & Mouse to USB Hub
+
+
+### 10. Connect the HDMI cable to USB Hub
+
+
+### 11. Reconnect the power supply (USB-C) directly into slot
+
+
+
+### 12. Boot the system
 
 
