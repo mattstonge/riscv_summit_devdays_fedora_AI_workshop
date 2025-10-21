@@ -146,7 +146,7 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 
 ## EXERCISE One (B):
-Since we have flashed the microSD cards in advance (for time saving measures), we'll jump straight into installation of the microSD card into your desktop.
+Since we have flashed 1TB NVMe drives in advance (for time saving measures), we'll jump straight into installation of the microSD card into your desktop.
 
 > Please Note: If at any time during the exercise, you have difficulty or a question - please raise your hand.
 
@@ -185,15 +185,21 @@ Since we have flashed the microSD cards in advance (for time saving measures), w
 
 
 ### 4. Use the smudger to pop open the case
+> Gently use the smudger to pry open the case.
 
+![smudger](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-smudger.jpg)
 
 
 ### 5. Remove/Replace the NVMe drive (or microSD card)
+> Unscrew the NVMe drive (if present) and replace it with the updated drive.
 
+![nvme](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-nvme-screw.jpg)
 
 
 ### 6. Snap over back in place
+> Align the cover and gently snap it back together.
 
+![cover snap](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab1b-case-closed.jpg)
 
 
 ### 7. Replace all the case screws
