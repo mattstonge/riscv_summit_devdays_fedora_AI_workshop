@@ -195,5 +195,7 @@ $ sudo /opt/eswin/sample-code/npu_sample/qwen_sample/bin/es_qwen2 /opt/eswin/sam
 
 -------------------------------------------------
 
+![starting]()
+
 
 
