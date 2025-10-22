@@ -195,7 +195,22 @@ $ sudo /opt/eswin/sample-code/npu_sample/qwen_sample/bin/es_qwen2 /opt/eswin/sam
 
 -------------------------------------------------
 
-![starting]()
+![starting](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3c-AI-greeting.png)
+
+
+
+![coexist](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3c-coexist.png)
+
+
+![inclusive](https://github.com/mattstonge/riscv_summit_devdays_fedora_AI_workshop/blob/main/images/lab3c-inclusive.png)
+
+--------------------------------------------------
+
+## THANK YOU
+
+## We hope you have enjoyed this workshop
+
+--------------------------------------------------
 
 
 
