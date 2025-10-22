@@ -110,6 +110,13 @@ $  sudo ./start-server.sh
 ## Demo Four: Manually running AI
 > Matt will demo command line usage of AI.
 
+
+----------------------------------------------
+
+## Hands-on Exercise Two:
+**Overview:** In this exercise will will run AI via the console.
+
+
 ### STEP 1: 
 > Open a terminal - set the window size and location to take up a small corner of the screen.
 
@@ -164,7 +171,29 @@ my-deepseek:latest   a7a9b3d5623a  2.2 GB          9 days ago
 ### STEP 5:
 > Engage the model - ask it some questions.
 
+> When exhausted by the AI's witty charm - exit out of all windows...
 
+
+----------------------------------------------
+
+## Hands-on Exercise Three:
+**Overview:**  In this glorious exercise we'll run a DeepSeek7B model on NPU via the console.
+
+
+```
+
+$ sudo /opt/eswin/sample-code/npu_sample/qwen_sample/bin/es_qwen2 /opt/eswin/sample-code/npu_sample/qwen_sample/src/deepseek_7b_1k_int8_peer/config.json
+
+```
+
+> Please be patient this may take a couple of minues to load the model.
+
+> **Fun Challenge:** Let's see who can make AI halucinate the most. For something without real feelings - it can get rather ...verbose.
+
+> **The Winner - by a vote of your peers** might just get a signed copy of Matt's book...
+
+
+-------------------------------------------------
 
 
 
